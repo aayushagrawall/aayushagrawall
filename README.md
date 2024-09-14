@@ -1,7 +1,7 @@
 # A passionate frontend developer from Nepal
 
----
 [![](https://visitcount.itsvg.in/api?id=cli3nterr&icon=0&color=12)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/clienterrverse-1207374906296246282) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clienterr_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/clienterr) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/clienterr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@clienterr) 
 
@@ -14,6 +14,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cli3nterr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 
 
