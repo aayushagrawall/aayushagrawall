@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate frontend developer from Nepal </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cli3nterr&label=Profile%20views&color=0e75b6&style=flat" alt="cli3nterr" /> </p>
 
@@ -7,7 +7,7 @@
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://clienterr.com/)
-[![youtube](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/clienterr)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clienterr_)
 
 
