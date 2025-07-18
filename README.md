@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushagrawall&label=Profile%20views&color=0e75b6&style=flat" alt="aayushagrawall" /> </p><h1 align="center">Hi 👋, I'm Aayush A</h1>
 <h3 align="center">I am an undergraduate student at BMS College of Engineering, pursuing B.E. in Artificial Intelligence and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushagrawall&label=Profile%20views&color=0e75b6&style=flat" alt="aayushagrawall" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/aayushagrawall](https://github.com/aayushagrawall)
 
 - 📫 How to reach me **agrawal.aayush38@gmail.com**
