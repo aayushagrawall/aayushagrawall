@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushagrawall&label=Profile%20views&color=0e75b6&style=flat" alt="aayushagrawall" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushagrawall" alt="aayushagrawall" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/aayushagrawall](https://github.com/aayushagrawall)
 
 - 📫 How to reach me **agrawal.aayush38@gmail.com**
