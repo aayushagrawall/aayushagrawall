@@ -1,24 +1,120 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushagrawall&label=Profile%20views&color=0e75b6&style=flat" alt="aayushagrawall" /> </p><h1 align="center">Hi 👋, I'm Aayush A</h1>
-<h3 align="center">I am an undergraduate student, pursuing B.E. in Artificial Intelligence and Machine Learning.</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/aayushagrawall](https://github.com/aayushagrawall)
+```bash
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║         > INITIALIZING AAYUSH.EXE ...                        ║
+║         > LOADING MODULES: [AI] [ML] [DEV] [CURIOSITY]      ║
+║         > STATUS: ALWAYS BUILDING. NEVER STOPPING.          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- 📫 How to reach me **aayush@aayushagrawal.codes**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/aayushagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aayushagrawal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aayushagrawall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushagrawall" height="30" width="40" /></a>
-<a href="https://instagram.com/_aayush.agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aayush.agrawal" height="30" width="40" /></a>
+<h1 align="center">Hey, I'm Aayush 👾</h1>
+
+<p align="center">
+  <em>B.E. in Artificial Intelligence & Machine Learning · Nepal 🇳🇵 · Builder by default</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3> 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/aayushagrawall"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dev.to/aayushagrawal"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://instagram.com/_aayush.agrawal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:agrawal.aayush38@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushagrawall/aayushagrawall/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayushagrawall/aayushagrawall/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aayushagrawall/aayushagrawall/output/pacman-contribution-graph.svg">
-</picture>
+## `$ whoami`
 
+```yaml
+name       : Aayush Agrawal
+alias      : aayushagrawall
+location   : Nepal 🏔️
+degree     : B.E. — Artificial Intelligence & Machine Learning
+org        : @clienterrverse
+status     : Undergraduate | Developer | Perpetual Learner
+superpower : Turning caffeine into code
+```
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+## `$ ls ./skills`
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Runtimes & Platforms**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat ./currently.log`
+
+```
+📚  Studying   →  AI & ML, deep in the fundamentals
+🔨  Building   →  Projects that scratch my own itches
+🤝  Collab     →  Active contributor @clienterrverse
+🌱  Growing    →  Every single day
+🎯  Goal       →  Ship something meaningful
+```
+
+---
+
+## `$ ./stats --display`
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushagrawall&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/aayushagrawall)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushagrawall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/aayushagrawall)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayushagrawall&theme=tokyonight&hide_border=true)](https://github.com/aayushagrawall)
+
+</div>
+
+---
+
+## `$ tail -f ./contribution-graph.svg`
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/aayushagrawall/aayushagrawall/output/pacman-contribution-graph.svg)
+
+---
+
+## `$ ping aayush`
+
+<div align="center">
+
+Got an idea? Building something cool? Just want to say hi?
+
+**`PONG` — I reply. Always.**
+
+📧 [agrawal.aayush38@gmail.com](mailto:agrawal.aayush38@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=aayushagrawall&label=Profile%20views&color=0e75b6&style=flat)
+
+*Thanks for stopping by. Now go build something.* 🚀
+
+</div>
